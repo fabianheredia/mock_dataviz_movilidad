@@ -16,10 +16,10 @@ se usa el framework de tamara Munzner para abstraer los datos y las tareas de lo
 
 ### WHAT
 
-![Philadelphia's Magic Gardens. This place was so cool!](https://fabianheredia.github.io/mock_dataviz_movilidad/img/w.png "Philadelphia's Magic Gardens")
+![What](https://fabianheredia.github.io/mock_dataviz_movilidad/img/w.png )
 
 ### WHY
-
+![What](https://fabianheredia.github.io/mock_dataviz_movilidad/img/h.png )
 
 ### HOW
 
